@@ -1,0 +1,4 @@
+Test pull from remote repository to local repository
+command to be used:
+git fetch <<Remote branch name>>
+git pull
