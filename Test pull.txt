@@ -1,4 +1,4 @@
 Test pull from remote repository to local repository
 command to be used:
-git fetch <<Remote branch name>>
-git pull
+git fetch <<Remote repository reference name in local>> <<branch name>>
+git pull <<Remote repository reference name in local>> <<branch name>>
